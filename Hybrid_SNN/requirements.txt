@@ -3,3 +3,4 @@ torchvision
 norse
 opencv-python
 tqdm
+numpy
